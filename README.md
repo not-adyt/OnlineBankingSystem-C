@@ -1,4 +1,4 @@
-# Sistem-Online-Banking
+# OnlineBankingSystem-C
 Made based on the final project of the Algorithm and Programming course.
 
 It's a toy code, so nothing special about it. Made it for learning C syntax.
